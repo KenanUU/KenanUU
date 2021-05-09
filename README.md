@@ -1,7 +1,14 @@
 ### Hi there 👋
 
-<!--
-**KenanUU/KenanUU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/82682475/117583460-e236ef00-b0cc-11eb-81fa-108d8323e3f9.gif" />
+
+I am a physicist, I like mathematics (another one), and I am interested in improving my computer and programming skills.
+
+- 🔭 I’m currently working on fuzzy measurements and coarse graining in quantum many-body systems.
+- 📚 I’m currently learning to use git and github to take advantage of it.
+- 👯 I’m looking for a software development internship. 
+- 📫 How to reach me: [Researchgate](https://www.researchgate.net/profile/Kenan-Uriostegui-Umana) [Gmail](rkuu@icf.unam.mx)
+
 
 Here are some ideas to get you started:
 
