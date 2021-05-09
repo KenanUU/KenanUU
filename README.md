@@ -6,7 +6,7 @@ I am a physicist, I like mathematics (another one), and I am interested in impro
 
 - 🌱 I’m currently working on fuzzy measurements and coarse graining in quantum many-body systems.
 - 📚 I’m currently learning to use git and github to take advantage of it.
-- 🔭 I'm interested in group theory, special functions, optomechanical systems and open quantum systems.
+- 🔭 I'm interested in group theory, special functions, discrete systems, optomechanical systems and open quantum systems.
 - 📫 How to reach me: [Researchgate](https://www.researchgate.net/profile/Kenan-Uriostegui-Umana) [Gmail](rkuu@icf.unam.mx)
 
 
